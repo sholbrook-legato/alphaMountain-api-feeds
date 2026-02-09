@@ -1,6 +1,6 @@
-# Axur API Feeds Connector for OpenCTI
+# alphaMountain API Feeds Connector for OpenCTI
 
-This is an AXUR API feeds connector integration for OpenCTI that fetches threat intelligence data from Axur's API and ingests it into OpenCTI.
+This project was forked from an existing connector for a different product. I am working to update it for alphaMountain
 
 ## Files
 
